@@ -1,5 +1,5 @@
 # H-CFLog
-H代号作品，Colorful Log ！彩色Log！（Tips: 需要"jansi-1.4"这个jar包）
+H代号作品，Colorful Log ！彩色Log！（Tips: 需要"jansi-1.4"这个jar包，在lib目录下面可以找到）
 
 基于jansi的封装，使用方法为：
 
